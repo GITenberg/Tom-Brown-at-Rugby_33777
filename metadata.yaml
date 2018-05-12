@@ -1,0 +1,39 @@
+_repo: Tom-Brown-at-Rugby_33777
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33777-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hughes, Thomas
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '645'
+    url: http://www.gutenberg.org/2009/agents/645
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hughes
+  editor:
+    agent_name: Robinson, Clara Weaver
+    birthdate: 1845
+    deathdate: 1905
+    gutenberg_agent_id: '36599'
+    url: http://www.gutenberg.org/2009/agents/36599
+description: ''
+gutenberg_issued: '2010-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Rugby School -- Fiction'
+- !lcsh 'Endowed public schools (Great Britain) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PZ'
+title: Tom Brown at Rugby
+url: http://www.gutenberg.org/ebooks/33777
